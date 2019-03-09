@@ -11,7 +11,7 @@ You can find the [capstone proposal rubric here](https://review.udacity.com/#!/r
 Please email [machine-support@udacity.com](mailto:machine-support@udacity.com) if you have any questions.
 
 
-[Humpback Whale Identiﬁcation]
+## [Humpback Whale Identiﬁcation]
 Kaggle Competition is used for a technical domain along with the problem and dataset. [1]
 
 [1] https://www.kaggle.com/c/humpback-whale-identiﬁcation.
