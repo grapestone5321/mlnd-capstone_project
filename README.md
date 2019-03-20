@@ -19,4 +19,3 @@ Kaggle Competition is used for a technical domain along with the problem and dat
 [1] https://www.kaggle.com/c/humpback-whale-identiﬁcation.
 
 
-
